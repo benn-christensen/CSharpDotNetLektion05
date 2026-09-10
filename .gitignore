@@ -3,3 +3,10 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+.vs/
+
+.idea/
+
+slides/*.pdf
+slides/*.html
