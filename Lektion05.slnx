@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Examples/">
+    <Project Path="EntityFrameworkExample/EntityFrameworkExample.csproj" />
+  </Folder>
+  <Folder Name="/Slides/">
+    <File Path="Slides/entityFramework.md" />
+  </Folder>
+</Solution>
